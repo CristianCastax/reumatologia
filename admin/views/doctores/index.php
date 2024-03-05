@@ -36,3 +36,4 @@
 
     </tbody>
 </table>
+<p>Se encontraron <?php echo $app->getCount();?> doctores</p>
